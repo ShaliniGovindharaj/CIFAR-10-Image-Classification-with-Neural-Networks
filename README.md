@@ -5,11 +5,13 @@ This repository contains a complete implementation of an image classification mo
 In this project, a Neural Network-based model is built to classify these images into their respective categories. The solution is implemented in Python using TensorFlow/Keras (or similar deep learning libraries — as used in the notebook).
  -----------
 #Key Concepts Covered#
+
 ✔ Loading and exploring the CIFAR-10 dataset
 ✔ Data pre-processing: normalization, label encoding
 ✔ Building and training a Neural Network model
 ✔ Model evaluation and visualization of results
 ✔ Interpretation of classification performance
+
 --------------------------------------
 #Model Architecture#
 The core model in the notebook is a Neural Network that typically includes:
