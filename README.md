@@ -40,8 +40,6 @@ Confusion matrix / misclassification insights (if included)
 These results demonstrate how a Neural Network learns from the CIFAR-10 image dataset.
 --------------------
 #Dependencies#
-Make sure you have the following installed:
-
 Python 3.x
 TensorFlow (or your chosen backend)
 NumPy
